@@ -20,6 +20,9 @@ This template should help get you started developing with Vue 3 in Vite.
 See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
+```sh
+cd cooking-masterclass-catalogue
+```
 
 ```sh
 npm install
@@ -36,3 +39,8 @@ npm run dev
 ```sh
 npm run build
 ```
+## Features
+-Displays cooking courses
+-Displays if a course is available or not
+-Allow the user to save the course to a wishlist
+
